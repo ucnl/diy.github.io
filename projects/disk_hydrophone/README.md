@@ -9,11 +9,11 @@
 
 ### Contents
 
-- [1. What will be the result?]()
-- [2. What do we need?]()
-  - [2.1. Bill of materials]()
-  - [2.2. Tools and equipment]()
-  - [2.3. Casting mold]()
+- [1. What will be the result?](#1-what-will-be-the-result)
+- [2. What do we need?](#2-what-do-we-need)
+  - [2.1. Bill of materials](#21-bill-of-materials)
+  - [2.2. Tools and equipment](#22-tools-and-equipment)
+  - [2.3. Casting mold](#23-casting-mold)
 - [3. Assembling the hydrophone]()
 - [4. Pouring]()
 - [5. Testing]()
