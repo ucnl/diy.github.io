@@ -14,10 +14,9 @@
   - [2.1. Bill of materials](#21-bill-of-materials)
   - [2.2. Tools and equipment](#22-tools-and-equipment)
   - [2.3. Casting mold](#23-casting-mold)
-- [3. Assembling the hydrophone]()
-- [4. Pouring]()
-- [5. Testing]()
-
+- [3. Assembling the hydrophone](#3-assembling-the-hydrophone)
+- [4. Pouring](#4-pouring)
+- [5. Testing](#5-testing)
 
 <div style="page-break-after: always;"></div>
 
@@ -45,7 +44,7 @@ The hydrophone is the main instrument that mediates for us between the worlds - 
 | 4 | Releasing agent [Ease Release 200 ](https://www.smooth-on.com/products/ease-release-200/) | little =) | |
 | 5 | Soft solder Ф0.5 - 1 mm | little =) | |
 | 6 | Neutral alcohol rosin flux | little =) | |
-| 7 | Sandpaper 150-200 grit | полоска 1 х 5 cm | |
+| 7 | Sandpaper 150-200 grit | 1 х 5 cm strip | |
 | 8 | Isopropyl alcohol | little =) | |
 | 9 | Janet's syringe (aka flushing 140 ml) | 2 pcs | for two pourings |
 | 10 | 20 ml syringe | 4 pcs | for two pourings |
@@ -189,7 +188,7 @@ At this stage, the assembly of the hydrophone is completed. It's time to move on
 
 ## 4. Pouring
 
-#PLEASE PLEASE PLEASE READ THE WARNING !!!
+# PLEASE PLEASE PLEASE READ THE WARNING !!!
 
 > **ATTENTION! For heaven's sake, use personal protective equipment: glasses, gloves. All work with reagents must be carried out in a very well-ventilated area (we do everything in fume hoods!). Take care of yourself - let humanity have a healthy scientist, with whole eyes and hands !!!**
 
