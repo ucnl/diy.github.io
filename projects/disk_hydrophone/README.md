@@ -147,13 +147,13 @@ The soldering process itself is shown in the following pictures:
 
 Note that there is a gap between the disc and the edge of the outer cable insulation. If this is not done, the cable will stick out too much and after pouring it will remain sticking out, which will lead to the fact that there will be places where water can get inside the device bypassing the polyurethane casing or cable insulation.  
 
-After soldering, the remaining flux must be washed off. Ethyl or isopropyl alcohol can be used. No other solutions (cologne, vodka, moonshine, gasoline, kerosene, etc.) can be used. We rub with a cotton swab on both sides.
+After soldering, the remaining flux must be washed off. Ethyl or isopropyl alcohol can be used. No other solutions (cologne, vodka, moonshine, gasoline, kerosene, etc.) can be used. Rub with a cotton swab on both sides.
 
 | ![assembling_step](35.jpeg) |
 | :---: | 
 | fig. 12 - Flux cleaning |
 
-Next, we take a multimeter and put it into resistance measurement mode. Make sure that there is no short circuit between the core and the cable shield. If there is, look for and eliminate the short circuit.
+Next, take a multimeter and put it into resistance measurement mode. Make sure that there is no short circuit between the core and the cable shield. If there is, look for and eliminate the short circuit.
 
 Now we can try on the future hydrophone in the mold.
 
@@ -161,7 +161,7 @@ Now we can try on the future hydrophone in the mold.
 | :---: | 
 | fig. 13 - Fitting in the mold |
 
-The location marked with the tip of the tweezers indicates where to sand the cable. It will need to be sanded before installation in the form, before the final degreasing.
+The location marked with the tip of the tweezers indicates where to sand the cable. It will need to be sanded before installation in the mold, before the final degreasing.
 In the meantime, it is necessary to glue polyurethane spacers - the same ones that are obtained from the previous pouring with nippers or scissors.
 If you don't have such, then it's time to jump a little ahead and make a test pouring in the mold (without a piezo disk).
 
@@ -199,26 +199,26 @@ At this stage, the assembly of the hydrophone is completed. It's time to move on
 > **No kidding - none of us will even take a screwdriver in hand without wearing goggles. We do not touch the components of the compound and solvents without gloves. All this is very unhealthy! Damn it, please take care of yourself! There are so few of us (engineers, scientists) and the quality is constantly decreasing =(.**
 
 Before pouring, we finally degrease our hydrophone with alcohol.
-Spray the shape with a releasing agent. Again, without fanaticism: we carefully read the instructions on the spray can.
+Spray the mold with a releasing agent. Again, without fanaticism: read the instructions on the spray can carefully.
 
 | ![assembling_step](47.jpeg) |
 | :---: | 
 | fig. 18 - Applying the releasing agent |
 
-Placing the hydrophone in the mold. Do not scratch the mold with it, we do not grab the releasing agent from the walls.
+Place the hydrophone in the mold. Do not scratch the mold with it, do not grab the releasing agent from the walls.
 
 | ![assembling_step](48.jpeg) |
 | :---: | 
 | fig. 19 - Placing the hydrophone in the mold |
 
-Cover with the second half, tighten the bolts. If your form is made using printing - tighten carefully: the material is quite fragile.
+Cover with the second half, tighten the srews. If your form is made using printing - tighten carefully: the material is quite fragile.
 
 | ![assembling_step](49.jpeg) |
 | :---: | 
 | fig. 20 - Enclosed mold |
 
 
-We will not repeat the pouring instructions supplied with the compound here. In a nutshell: the recommended compound is mixed in equal volume fractions.
+We are not going to repeat the pouring instructions supplied with the compound here. In a nutshell: the recommended compound is mixed in equal volume fractions.
 It is convenient to prepare a 500 ml plastic disposable cup, take two 20 ml syringes, take both jars (polymer and cross-linker - components are usually labelled "A" and "B"). Put them on your left and right sides of you, sign the syringes accordingly - with some you will draw from jar "A", the other - from jar "B". If you stick a syringe soiled in one component into a jar with others - thus eventually throw away the leftovers into the trash. Do not do that.
 
 So.
@@ -236,7 +236,7 @@ Those. the total volume of the mixture is 80 ml.
 
 | ![assembling_step](54.jpeg) |
 | :---: | 
-| fig. 22 - Degsing |
+| fig. 22 - Degassing |
 
 While the compound is being degasing, it's time to unpack Janet's syringe:
 
@@ -244,14 +244,14 @@ While the compound is being degasing, it's time to unpack Janet's syringe:
 | :---: | 
 | fig. 23 - Janet's syringe |
 
-To draw a compound from a glass with a syringe - "this is the way to Hell, Francesco, my friend!" (C). Instead of this:
+To draw a compound from a cup with a syringe - "this is the way to Hell, Francesco, my friend!" (C). Instead of this:
 - remove the plunger from the syringe
-- place the syringe with the nose down, while we pinch the nose with our finger
+- place the syringe with the nose down, while pinching the nose with your finger (in a glove!)
 - pour the compound into the syringe from the cup, scraping along the walls with a stick
-- carefully insert the stem back, gradually, sideways
-- turn the syringe over and let the urethane drain to the bottom (top of the plunger)
-- release your finger, wipe a drop of urethane with a napkin
-- we bring the stem up so that the urethane almost reaches the edge of the spout.
+- carefully insert the plunger back, gradually, sideways
+- turn the syringe over and let the polyurethane drain to the bottom (top of the plunger)
+- release your finger, wipe a drop of polyurethane with a napkin
+- we bring the plunger up so that the polyurethane almost reaches the edge of the nose.
 
 | ![assembling_step](55.jpeg) |
 | :---: | 
@@ -263,14 +263,14 @@ That's it. You can pour:
 | :---: | 
 | fig. 25 - Pouring process |
 
-Pouring gradually. Until the moment when the urethane comes out of the exit channels. We stop at about this level:
+Pouring gradually. Until the moment when the polyurethane comes out of the exit channels. Stop at about this level:
 
 | ![assembling_step](58.jpeg) |
 | :---: | 
 | fig. 26 - Pouring process |
 
-This is where the pouring ends and the polyurethane takes time to cure. We leave everything at the manufacturer's recommended temperature for 24 hours.
-The mold is small enough, so we do not degas it - it is enough to degas the compound in a cup. As a rule, there are practically no bubbles in such forms if everything was done correctly: the compound is quickly and efficiently mixed, degassed and the temperature regime is observed.
+This is where the pouring ends and the polyurethane takes time to cure. Leave everything at the manufacturer's recommended temperature for 24 hours.
+The mold is small enough, so we do not degas it - it is enough to degas the compound in a cup. As a rule, there are practically no bubbles in such molds if everything was done correctly: the compound is quickly and efficiently mixed, degassed and the temperature conditions is observed.
 
 ## 5. Testing
 After 24 hours, the mold can be opened.
@@ -283,19 +283,19 @@ I wrote this tutorial literally as we made it and we actually opened the form in
 If there are serious pouring defects, re-read the instructions for the compound again, perhaps you did something wrong:
 - proportions not respected
 - mixed and degassed too long (not degassed?)
-- temperature regime is not observed
+- temperature conditions are not observed
 - took in a lot of air when pouring into a syringe, etc.
 
 The hydrophone is flat and shouldn't be too difficult to remove from the mold. Just in case, I will mention that we are trying to pull the sprues (not the cable!).
 
-We cut the sprues with nippers or scissors.
-A thin film formed due to the loose fit of parts of the form is easily torn off by hand.
+Cut the sprues with nippers or scissors.
+A thin film formed due to the loose fit of parts of the mold is easily torn off by hand.
 
 | ![assembling_step](59.jpeg) |
 | :---: | 
 | fig. 28 - A new batch of spacers for the next hydrophone |
 
-We don’t throw away the resulting spacers - they will go to the next hydrophone!
+Don’t throw away the spacers - they will go to the next hydrophone!
 
 So, if everything worked out as planned, then let's check our hydrophone.
 The most convenient way to do this is to use an oscilloscope:
