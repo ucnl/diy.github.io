@@ -22,7 +22,7 @@
 <div style="page-break-after: always;"></div>
 
 ## 0. Disclaimer
-**We are not responsible if you get hurt while following this lesson. By following this lesson, you agree that you are acting at your own risk. Strictly follow the rules and safety precautions when working with this or that tool or materials**
+**We are not responsible if you get hurt while following this tutorial. By following this tuturial, you agree that you are acting at your own risk. Strictly follow the rules and safety precautions when working with this or that tool or materials**
 
 ## 1. What will be the result?
 At the output, we will have a sensitive disk hydrophone, supplementing which with a preamplifier, we will be able to record hydroacoustic signals in the frequency range from about 10 to 40 kHz: the sounds of fish and marine mammals, the noises of ships and boat engines, and even the noise of a snowstorm and the creak of footsteps on ice, if you want to study the sounds in the reservoirs, encased in ice crust. 
