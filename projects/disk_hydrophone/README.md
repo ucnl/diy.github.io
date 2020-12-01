@@ -33,9 +33,9 @@ This is how your new hydrophore will look like:
 The hydrophone is the main instrument that mediates for us between the worlds - ours and underwater. That is why, with the manufacture of a homemade hydrophone, we begin a whole cycle of educational articles for _diving_ into the world of underwater sound.
 
 ## 2. What do we need?
-## 2.1. Bill of materials
+### 2.1. Bill of materials
 
-### Table 1 - Bill of materials
+#### Table 1 - Bill of materials
 
 | № | Meterial | Quantity | Notes |
 | :--- | :--- | :--- | :--- |
@@ -56,9 +56,9 @@ The hydrophone is the main instrument that mediates for us between the worlds - 
 
 In our work, we use another polyurethane compound, which is quite difficult for an amateur to find, and it is not at all easy to work with it. Instead, we recommend a widely available compound that is also suitable for our task. You can try other compounds from other manufacturers (eg 3M, etc.). The main parameters for selection should be the so-called. _pot life_ - during which the compound _flows_. Choose compounds with a pot life of at least 20-30 minutes. The second parameter to keep in mind is the Shore hardness of the finished product (scale A): we recommend compounds with a hardness of about 60A.
 
-## 2.2. Tools and equipment
+### 2.2. Tools and equipment
 
-### Table 2 - Tools and equipment list
+#### Table 2 - Tools and equipment list
 
 | № | Tool | Purpose |
 | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ In our work, we use another polyurethane compound, which is quite difficult for 
 | 6 | Multimeter | for checking before and after pouring |
 | 7 | Digital oscilloscope | _desirable_ for checking |
 
-## 2.3. Casting mold
+### 2.3. Casting mold
 Here we do not touch upon the issue of making a casting mold in detail: you can order its printing on a DLP 3D printer or on a CNC milling machine.
 For example, we did just that: we printed the mold on a DLP printer [Anycubic Photon mono](https://www.anycubic.com/products/photon-mono-resin-3d-printer). If you want to make it on a milling machine, then we recommend using polyacetal (Delrin) or polyamide 6 as the material - these materials have high strength and nothing sticks to them. Delrin is significantly easier (and may be cheaper) to process than polyamide 6.
 Printing using **FDM technology** is **not recommended** due to the unsatisfactory surface quality and high porosity of the resulting structure.
@@ -96,7 +96,7 @@ To tighten the mold, you will need four screws M8 x 1.25 x 20 mm (this is the th
 Please note that the inlet of the mold is specially made for the use of Janet syringes and has a diameter of Ф7 mm Inside the mold, a part of the inlet channel is made in the form of successive cylindrical cavities.
 This is done specifically so that part of the compound that has cured in the inlet channel can be used as spacers for subsequent pouring. Below we will tell you in more detail what to do with this.
 
-# 3. Assembling the hydrophone
+## 3. Assembling the hydrophone
 So. First, we strip 2-3 cm of the cable insulation. We recommend using a convenient tool right away - this will save time and nerves, as well as keep the cable shield intact.
 
 | ![assembling_step](24.jpeg) |
@@ -187,7 +187,7 @@ Now we sand the part of the cable insulation that will be covered with polyureth
 At this stage, the assembly of the hydrophone is completed. It's time to move on to the pouring.
 
 
-# 4. Pouring
+## 4. Pouring
 
 #PLEASE PLEASE PLEASE READ THE WARNING !!!
 
@@ -269,7 +269,7 @@ Pouring gradually. Until the moment when the urethane comes out of the exit chan
 This is where the pouring ends and the polyurethane takes time to cure. We leave everything at the manufacturer's recommended temperature for 24 hours.
 The mold is small enough, so we do not degas it - it is enough to degas the compound in a cup. As a rule, there are practically no bubbles in such forms if everything was done correctly: the compound is quickly and efficiently mixed, degassed and the temperature regime is observed.
 
-# 5. Testing
+## 5. Testing
 After 24 hours, the mold can be opened.
 I wrote this tutorial literally as we made it and we actually opened the form in about 24 hours. Here's what we saw:
 
@@ -315,7 +315,7 @@ It is not very convenient to use this hydrophone directly: it has too low sensit
 We will explain how to make a preamplifier for your new hydrophone in the next article.
 
 _______  
-[Contents]()
+[Contents](#contents)
 
 <div style="page-break-after: always;"></div>
 
