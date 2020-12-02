@@ -244,7 +244,7 @@ While the compound is being degasing, it's time to unpack Janet's syringe:
 | :---: | 
 | fig. 23 - Janet's syringe |
 
-To draw a compound from a cup with a syringe - "this is the way to Hell, Francesco, my friend!" (C). Instead of this:
+To draw a compound from a cup with a syringe - "That is the path to Hell, my friend!" (C). Instead of this:
 - remove the plunger from the syringe
 - place the syringe with the nose down, while pinching the nose with your finger (in a glove!)
 - pour the compound into the syringe from the cup, scraping along the walls with a stick
