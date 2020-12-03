@@ -3,7 +3,7 @@
 | [www.diy.unavlab.com](https://diy.unavlab.com/) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
 | [**EN**](README.md) \| [**RU**](README_RU.md) |
 
-# Project #1: Making a disc hydrophone
+# Project 1: Making a disc hydrophone
 
 > _"Hydroacoustician has drunk his hydrophone away" (C) Russian joke_  
 
