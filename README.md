@@ -6,6 +6,6 @@
 
 # Articles & tutorials
 
-- [1. Making a disc hydrophone](/projects/disk_hydrophone/README.md)
-- coming soon: [2. Making a hydrophone preamplifier]()
-- coming soon: [3. uSwitch - remote acoustic switch]()
+- [Project 1. Making a disc hydrophone](/projects/disk_hydrophone/README.md)
+- coming soon: [Project 2. Making a hydrophone preamplifier]()
+- coming soon: [Project 3. uSwitch - remote acoustic switch]()
