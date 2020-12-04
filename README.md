@@ -9,3 +9,4 @@
 - [Project 1. Making a disc hydrophone](/projects/disk_hydrophone/README.md)
 - coming soon: [Project 2. Making a hydrophone preamplifier]()
 - coming soon: [Project 3. uSwitch - remote acoustic switch]()
+- coming soon: [Project 4. Hardcore: locating a submarine with Arduinos]()
