@@ -6,15 +6,15 @@
 # Project 2: Making a preamplifier for a hydrophone
 
 ### Contents
-- [0. Disclaimer]()
-- [1. What will be the result?]()
-- [2. What do we need?]()
-   - [2.1. Materials and equipment]()
-- [3. Manufacturing]()
-   - [3.1. Manufacturing the PCB]()
-   - [3.2. Assembling the PCB]()
-   - [3.3. Connecting the hydrophone and connectors] ()
-- [4. Checking]()
+- [0. Disclaimer](#0-disclaimer)
+- [1. What will be the result?](#1-what-will-be-the-result)
+- [2. What do we need?](#2-what-do-we-need)
+   - [2.1. Materials and equipment](#21-materials-and-equipment)
+- [3. Manufacturing](#3-manufacturing)
+   - [3.1. Manufacturing the PCB](#31-manufacturing-the-pcb)
+   - [3.2. Assembling the PCB](#32-assembling-the-pcb)
+   - [3.3. Connecting the hydrophone and connectors](#33-connecting-the-hydrophone-and-connectors)
+- [4. Checking](#4-checking)
 
 <div style="page-break-after: always;"></div>
 
@@ -409,6 +409,6 @@ This concludes our tutorial, we hope you were interested =)
 
 
 _______  
-[Contents]()
+[Contents](#contents)
 
 <div style="page-break-after: always;"></div>
