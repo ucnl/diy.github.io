@@ -3,7 +3,7 @@
 | [www.diy.unavlab.com](https://diy.unavlab.com/) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
 | [**EN**](README.md) \| [**RU**](README_RU.md) |
 
-# Project 2: Making a preamplifier for a hydrophone
+# Project 2: Making a hydrophone preamplifier
 
 ### Contents
 - [0. Disclaimer](#0-disclaimer)
