@@ -315,7 +315,7 @@ From peak to peak, we get about 2.7 volts.
 **Well, congratulations on your new hydrophone, you are great! =)**
 
 It is not very convenient to use this hydrophone directly: it has too low sensitivity. In order for it to become truly useful, it must be equipped with a preamplifier and bandpass filter.
-We will explain how to make a preamplifier for your new hydrophone in the next article.
+We will explain how to make a preamplifier for your new hydrophone in the [next article](/projects/preamplifier_for_hydrophone).
 
 _______  
 [Contents](#contents)
