@@ -345,8 +345,6 @@ So. Let's carry out an inventory. We have:
 | :---: |
 | fig. 35 - Preamplifier connection diagram |
 
-На рисунке обозначены:
-
 ### Table 4 - Connection
 
 | № | Designation | Role |
@@ -367,7 +365,7 @@ This is how we did it:
 | :---: |
 | fig. 36 - All cables are soldered to the board |
 
-И общий план:
+And the general view:
 
 | ![step](62.jpeg) |
 | :---: |
