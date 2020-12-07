@@ -119,7 +119,7 @@ Items **VD2, VD3, VD4, R12** set **only** in the case of connection of the pream
 | 7 | Cable with USB plug | 1 pcs. ~0.5-1 m | |
 
 If you decide to order the manufacture of a PCB, then you will not need materials and tools from **Table 2** and you can safely skip paragraph 3.1.
-To order a PCB, you will also need a [Gerber file] (preamp_pcb.GTL). You can order the manufacture of PCBs, for example, on the [JLCBCP](https://jlcpcb.com/).
+To order a PCB, you will also need a [Gerber file](preamp_pcb.GTL). You can order the manufacture of PCBs, for example, on the [JLCBCP](https://jlcpcb.com/).
 
 ## 3. Manufacturing
 > **ATTENTION! Strictly follow the safety rules: during manufacturing, wear safety glasses - your eyes are not superfluous! It is very easy to damage them but it is also very easy to prevent it - WEAR PROTECTIVE GLASSES! Be careful with solvents - all work must be done with gloves and in a well-ventilated area! All electrical appliances - iron and soldering iron, if handled roughly, can cause serious injury, burns and electric shock. If you are minor - do work ONLY UNDER THE SUPERVISION OF ADULTS !!!**
@@ -185,6 +185,7 @@ Just in case, let me remind you once again that you need a _laser printer_!
 | fig. 12 - PCB mask (40 х 23.5 mm) |
 
 We got it like this:
+
 | ![step](34.jpeg) |
 | :---: |
 | fig. 13 - Printed mask |
@@ -404,7 +405,6 @@ We have specially prepared a test [signal](test_sound_96kHz_sereo.wav) which con
 By the way, we attach to this tutorial [recording made in the pool](pool_test_signal.wav).
 
 This concludes our tutorial, we hope you were interested =)
-
 
 _______  
 [Contents](#contents)
