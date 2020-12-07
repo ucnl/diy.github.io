@@ -26,7 +26,7 @@
 ## 1. What will be the result?
 As a result, you will have a _full-fledged hydrophone with a preamplifier_ that can be powered from the _USB-port_ of any laptop and record underwater sounds using the laptop's _sound card_.
 
-It is assumed that you already have a disk hydrophone that we made in [previous project](/projects/disk_hydrophone/README.html).
+It is assumed that you already have a disk hydrophone that we made in [previous project](/projects/disk_hydrophone/).
 If you have any other hydrophone you can try connecting it to this preamp.
 
 For brevity, we will refer to the preamplified hydrophone as the "active hydrophone".
