@@ -99,11 +99,11 @@ Now the signal looks a little different:
 
 The excess background is almost completely suppressed, but the signal volume is clearly insufficient. To fix this we _normalize_ the signal. To do this, select the **Effects** > **Normalize** menu item. The result will be a signal like this:
 
-### [Fragment 1: lowpass + narmalization](1_2_normalized.wav)
+### [Fragment 1: lowpass + normalisation ](1_2_normalized.wav)
 
 | ![hydrophone](1_2_normalized.png) |
 | :---: |
-| fig. 9 - lowpass + narmalization |
+| fig. 9 - lowpass + normalisation |
 
 After normalization, the level of noise also increased slightly, so you can perform noise reduction. Ocenaudio has a convenient automatic function for this: select the menu item **Effects** > **Noise Reduction** > **Automatic Noise Reduction**.
 
@@ -113,7 +113,7 @@ Now you can enjoy the results of your work and listen to the final result. The s
 
 | ![hydrophone](1_3_noise_reduction.png) |
 | :---: |
-| fig. 10 - lowpass + narmalization + noise reduction |
+| fig. 10 - lowpass + normalisation + noise reduction |
 
 
 ## Analysing fragment 2
