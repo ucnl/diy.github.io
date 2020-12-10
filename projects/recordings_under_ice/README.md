@@ -29,140 +29,140 @@ So. Our headquarters on the ice looked like this:
 
 | ![hydrophone](7.jpeg) |
 | :---: |
-| рисунок 1 - "Офис на вынос" |
+| fig. 1 - "Office-to-go" |
 
-Ноутбук в общем не предназначен для работы при пониженных температурах и большую часть времени наш работает от преобразователя, подключенного к большому 12-вольтовому аккумулятору. К сожалению, преобразователь дает очень сильную импульсную помеху, которая попадает на запись. Поэтому на время записи мы отключаем ноутбук от внешнего питания. 
+The laptop is generally not designed to operate in cold temperatures, and most of the time ours runs on a converter connected to a large 12-volt battery. Unfortunately, the converter produces a very strong impulse noise that gets into the recording. Therefore, during the recording, we disconnect the laptop from external power.
 
-Наш гидрофон сделан из доступных материалов (чтобы у желающих повторить эту конструкцию не возникло проблем с комплектующими) и изоляция кабеля RG-174 выполнена из ПВХ, который дубеет на морозе и его сложно вытянуть после того, как он был смотан. 
-В коммерческих устройствах мы используем кабели только с полиуретановой изоляцией, которая лишена такого недостатка.
+Our hydrophone is made of available materials (so that those who want to repeat this design do not have problems with supplies) and the insulation of the RG-174 cable is made of PVC, which hardens in the cold and is difficult to pull in line after it has been frozen.
+In commercial devices, we only use cables with polyurethane insulation, which does not have this disadvantage.
 
 | ![hydrophone](3.jpeg) |
 | :---: |
-| рисунок 2 - Опускаем гидрофон в лунку |
+| fig. 2 - Llowering the hydrophone into the ice-hole |
 
-С некоторыми усилиями гидрофон опускается в лунку. В некоторых случаях, особенно если кабель длинный и хочется опустить устройство на большую глубину, придется привязатьк нему какой-то груз - чтобы кабель выпрямлялся под его весом.
+With some effort, the hydrophone is lowered into the ice-hole. In some cases, especially if the cable is long and you want to lower the device to a great depth, you will have to tie some kind of weight to it - so that the cable straightens under its weight.
 
 | ![hydrophone](5.jpeg) |
 | :---: |
-| рисунок 3 - Все готово для работы |
+| fig. 3 - Everything is ready to go |
 
-Этой зимой сложилась редкая ситуация - морозы простояли достаточно долго чтобы лед успел набрать прочность, а осадков практически не было. В таких случаях мы передвигаемя по поверхности водоема на коньках =)
+This winter there was a rare situation - the frosts stood long enough for the ice to gain strength, and there was practically no precipitation. In such cases, we move along the surface of the reservoir on skates =)
 
 | ![hydrophone](6.jpeg) |
 | :---: |
-| рисунок 4 - Гидрофон отлично чувствует скрип коньков по льду |
+| fig. 4 - The hydrophone perfectly senses the creak of skates on the ice |
 
-Лед на водоемах часто трескается (с непривычки можно испугаться). Возникают вот такие трещины:
+Ice on water bodies often cracks (you can get scared out of habit). Such cracks appear:
 
 | ![hydrophone](8.jpeg) |
 | :---: |
-| рисунок 5 - Трещина во льду |
+| fig. 5 - A crack in ice |
 
-Иногда, если трещина возникает где-то рядом, слышится громкий хруст. Но чаще можно услышать (и иногда даже почувствовать ногами) звук расходящейся где-то далеко трещины. Он достаточно характерен и его сложно с чем-то спутать.
+Sometimes, if a crack appears somewhere nearby, a loud crunch is heard. But more often you can hear (and sometimes even feel with your feet) the sound of a crack spreading somewhere far away. It is quite characteristic and it is difficult to confuse it with something.
 
 
-## Разбор фрагмента 1
+## Analysing fragment 1
 
-Мы подумали, что неплохо было бы на примере такого звука разобрать самые базовые приемы работы с гидрофоном и звуковым редкатором. Хоть наш гидрофон и предназначен для записи звуков примерно от 10 кГц, а звук расходящейся трещины явно низкочастотный, мы все же сделали пару записей длительностью по 3-4 минуты, на которых явно должны были попасть несколько таких звуков. 
+We thought it would be nice to use the example of such a sound to make out the most basic techniques for working with a hydrophone and a sound editor. Although our hydrophone is designed to record sounds from about 10 kHz, and the sound of a diverging crack is clearly low-frequency, we nevertheless made a couple of recordings 3-4 minutes long, in which several such sounds were clearly supposed to be.
 
-Найти их в длинной записе не так просто - нужно внимательно просмотреть и прослушать всю запись. Поэтому мы уже выбрали соотвтетсвующий короткий кусок:
+Finding them in a long recording is not so easy - you need to carefully review and listen to the entire recording. Therefore, we have already selected the appropriate short chunk:
 
 | ![hydrophone](1_0_source.png) |
 | :---: |
-| рисунок 6 - Фрагмент записи №1 |
+| fig. 6 - fragment 1 |
 
-Для записи и манипуляций со звуком мы использовали очень удобное бесплатное приложение [Ocenaudio](https://www.ocenaudio.com/). 
-Вы можете скачать его и сами загрузить фрагмент записи, сделенной нами:
+For recording and manipulating sound, we used a very convenient free application [Ocenaudio](https://www.ocenaudio.com/).
+You can download it and download a fragment of the recording made by us yourself:
 
-### [Исходный фрагмент записи №1](1_0_source_signal.wav)
+### [Fragment 1: source signal](1_0_source_signal.wav)
 
-Чтобы он выглядел также, как и на скриншоте выше, выберите пункт меню **View** > **Waveform & Spectral View** или просто нажмите **Ctrl + 3**.
-Во временной реализации сигнала (верхняя половина окна) глаз ни за что не цепляется, а на спектрограмме (нижняя половина окна) примерно через 150 мсек от начала  виден мощный "всплеск" (учитывая то, что он находится вне рабочей полосы гидрофона) в полосе от нескольких сотен по пары килогерц.
+To make it look the same as in the screenshot above, select the **View** > **Waveform & Spectral View** menu item or just press **Ctrl + 3**.
+In the time domain (the upper half of the window), the eye does not cling to anything, and on the spectrogram (the lower half of the window), approximately 150 msec from the beginning, a powerful "burst" is seen (considering that it is outside the working band of the hydrophone) in the several hundred by a couple of kilohertz.
 
-> НЧ-фильтр - это фильтр низких частот, он фильтрует _низкие частоты_ от _высоких_. Часто этот термин вызывает путаницу. В этом случае удобно вспомнить английское название _Lowpass filter_, что означает _низкие проходят_.
+> A low-pass filter is a low-pass filter, it filters _low frequencies_ from _high_. This term is often confusing. In this case, it is convenient to recall the English name _Lowpass filter_, which means _low pass_.
 
-Чтобы выделить этот участок, можно применить ко всему фрагменту НЧ-фильтр, тем самым отфильтровав все частоты выше примерно 2 кГц. 
-Для этого выберите пункт меню **Effects** > **Filter** > **Lowpass Filter...**. В появившемся диалоговом окне установите верхнюю частоту фильтра (passband limit) на значении примерно 2 кГц:
+To highlight this area, you can apply a low-pass filter to the entire signal, thereby filtering out all frequencies above about 2 kHz.
+To do this, select the **Effects** > **Filter** > **Lowpass Filter ...** menu item. In the dialogue box that appears, set the upper filter frequency (passband limit) to about 2 kHz:
 
 | ![hydrophone](scr_filt_dialog.png) |
 | :---: |
-| рисунок 7 - Диалоговое окно Lowpass Filter |
+| fig. 7 - Lowpass Filter dialogue box |
 
-Фильтр задавит все частоты выше примерно 2 кГц.
-### [Фрагмент записи №1: НЧ фильтрация](1_1_lowpass.wav)
+The filter will suppress all frequencies above about 2 kHz.
+### [Fragment 1: lowpass](1_1_lowpass.wav)
 
-Теперь сигнал выглядит несколько иначе:
+Now the signal looks a little different:
 
 | ![hydrophone](1_1_lowpass.png) |
 | :---: |
-| рисунок 8 - Результат действия НЧ-фильтра |
+| fig. 8 - The result of the low-pass filter |
 
-Лишний фон практически полностью подавлен, но громкость сигнала явно недостаточна. Чтобы исправить это мы _нормализуем_ сигнал. Для чего выберем пункт меню **Effects** > **Normalize**. В результате получится такой сигнал:
+The excess background is almost completely suppressed, but the signal volume is clearly insufficient. To fix this we _normalize_ the signal. To do this, select the **Effects** > **Normalize** menu item. The result will be a signal like this:
 
-### [Фрагмент записи №1: НЧ фильтрация + нормализация](1_2_normalized.wav)
+### [Fragment 1: lowpass + narmalization](1_2_normalized.wav)
 
 | ![hydrophone](1_2_normalized.png) |
 | :---: |
-| рисунок 9 - НЧ-фильтр + нормализация |
+| fig. 9 - lowpass + narmalization |
 
-Вместе с нормализацией немного вырос и уровен шумов, поэтому можно еще выполнить шумоподавление. В ocenaudio есть для этог удобная автоматическая функция: выбираем пункт меню **Effects** > **Noise Reduction** > **Automatic Noise Reduction**.
+After normalization, the level of noise also increased slightly, so you can perform noise reduction. Ocenaudio has a convenient automatic function for this: select the menu item **Effects** > **Noise Reduction** > **Automatic Noise Reduction**.
 
-Теперь можно насладиться результатами работы и прослушать конечный результат. Звук расходящейся трещины теперь слышен отчетливо, и даже можно расслышать небольшое эхо, следующее за основным всплеском.
+Now you can enjoy the results of your work and listen to the final result. The sound of the expanding crack is now clearly audible, and even a small echo can be heard following the main burst.
 
-### [Фрагмент записи №1: НЧ фильтрация + нормализация + автошумоподавление](1_3_noise_reduction.wav)
+### [Fragment 1: lowpass + narmalization + noise reduction](1_3_noise_reduction.wav)
 
 | ![hydrophone](1_3_noise_reduction.png) |
 | :---: |
-| рисунок 10 - НЧ-фильтр + нормализация + автошумоподавление |
+| fig. 10 - lowpass + narmalization + noise reduction |
 
 
-## Разбор фрагмента 2
+## Analysing fragment 2
 
-В качестве второго фрагмента предлагаем разобрать звук скрипа коньков по льду. Все этапы здесь в точности такие же:
+As the second fragment, we propose to make out the sound of skates squeaking on the ice. All the steps here are exactly the same:
 
-### [Фрагмент записи №2: Исходный сигнал](2_0_source_signal.wav)
+### [Fragment 2: source signal](2_0_source_signal.wav)
 
 | ![hydrophone](2_0_source.png) |
 | :---: |
-| рисунок 11 - Фрагмент №2: исходный сигнал |
+| fig. 11 - Fragment 2: source signal |
 
 
-Так как скрип коньков - это все-таки широкополосный сигнал, то верхнюю частоту фильтра установив на значение порядка 15 кГц (близко к пределу нашего слуха):
+Since the creak of skates is a broadband signal, set the upper filter frequency to a value of about 15 kHz (close to the limit of our hearing):
 
-### [Фрагмент записи №2: НЧ-фильтрация](2_1_lowpass.wav)
+### [Fragment 2: low-pass](2_1_lowpass.wav)
 
 | ![hydrophone](2_1_lowpass.png) |
 | :---: |
-| рисунок 12 - Фрагмент №2: НЧ-фильтрация |
+| fig. 12 - Fragment 2: low-pass |
 
 
-### [Фрагмент записи №2: НЧ-фильтрация + нормализация](2_2_normalized.wav)
+### [Fragment 2: low-pass + normalization](2_2_normalized.wav)
 
 | ![hydrophone](2_2_normalized.png) |
 | :---: |
-| рисунок 12 - Фрагмент №2: НЧ-фильтр + нормализация |
+| fig. 13 - Fragment 2: low-pass + normalization |
 
-И окончательный результат, после автоматического шумоподавления:
+And the final result, after automatic noise reduction:
 
-### [Фрагмент записи №2: НЧ-фильтрация + нормализация + автошумоподавление](2_3_noise_reduction.wav)
+### [Fragment 2: low-pass + normalization + noise reduction](2_3_noise_reduction.wav)
 
 | ![hydrophone](2_3_noise_reduction.png) |
 | :---: |
-| рисунок 12 - Фрагмент №2: НЧ-фильтр + нормализация + автошумоподавление |
+| fig. 14 - Fragment 2: low-pass + normalization + noise reduction |
 
-Если приглядеться (прислушаться?) то примерно в середине записи слышен челчок, но какова его природа мы предлагаем разобраться самостоятельно.
+If you look closely (listen?), Then about in the middle of the recording you can hear a bang, but what is its nature we propose to figure it out on our own.
 
-## Фрагмент 3
+## Fragment 3
 
-В качестве бонуса предлагаем вам самим проделать такие же манипуляции с третьим фрагментом: субъективно, они примерно в 4 раза интересней первого фрагмента:
+As a bonus, we suggest that you yourself do the same manipulations with the third fragment: subjectively, they are about 4 times more interesting than the first fragment:
 
-### [Фрагмент записи №2: Исходный сигнал](3_0_source_signal.wav)
+### [Fragment 3: source signal](3_0_source_signal.wav)
 
 
 
-Надеемся, что вам понравилось. Спасибо за внимание и удачи!
+We hope you enjoyed it. Thanks for your attention and good luck!
 
 _______  
-[К содержанию](#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
+[Back to contents]()
 
 <div style="page-break-after: always;"></div>
