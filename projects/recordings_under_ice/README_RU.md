@@ -3,7 +3,7 @@
 | [www.diy.unavlab.com](https://diy.unavlab.com/README_RU.html) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
 | [**EN**](README.md) \| [**RU**](README_RU.md) |
 
-# Приложение к [проекту №2](/projects/preamplifier_for_hydrophone/README_RU.md): запись подводных звуков из-подо льда
+# Приложение к [проекту №2](/projects/preamplifier_for_hydrophone/README_RU): запись подводных звуков из-подо льда
 
 <div style="page-break-after: always;"></div>
 
