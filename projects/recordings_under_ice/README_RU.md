@@ -1,7 +1,7 @@
 | ![logo](https://ucnl.github.io/documentation/sm_logo.png) |
 | :---: |
 | [www.diy.unavlab.com](https://diy.unavlab.com/README_RU.html) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
-| [**EN**](README.md) \| [**RU**](README_RU.md) |
+| [**EN**](README.html) \| [**RU**](README_RU.html) |
 
 # Приложение к [проекту №2](/projects/preamplifier_for_hydrophone/README_RU): запись подводных звуков из-подо льда
 
