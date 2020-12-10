@@ -6,11 +6,11 @@
 # Appendix to [project 2](/projects/preamplifier_for_hydrophone/): recording of underwater sounds from under the ice
 
 ### Contents
-- [Дисклеймер]()
-- [Введение]()
-- [Разбор фрагмента 1]()
-- [Разбор фрагмента 2]()
-- [Фрагмент 3]()
+- [Дисклеймер](#disclaimer)
+- [Введение](#introduction)
+- [Разбор фрагмента 1](#analysing-fragment-1)
+- [Разбор фрагмента 2](#analysing-fragment-2)
+- [Фрагмент 3](#fragment-3)
 
 <div style="page-break-after: always;"></div>
 
@@ -163,6 +163,6 @@ As a bonus, we suggest that you yourself do the same manipulations with the thir
 We hope you enjoyed it. Thanks for your attention and good luck!
 
 _______  
-[Back to contents]()
+[Back to contents](#contents)
 
 <div style="page-break-after: always;"></div>
