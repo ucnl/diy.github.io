@@ -406,6 +406,10 @@ By the way, we attach to this tutorial [recording made in the pool](pool_test_si
 
 This concludes our tutorial, we hope you were interested =)
 
+## P.S.
+
+- [Appendix to project 2: recording of underwater sounds from under the ice](/projects/recordings_under_ice/README)
+
 _______  
 [Contents](#contents)
 
