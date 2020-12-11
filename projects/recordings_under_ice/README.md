@@ -79,8 +79,6 @@ You can download it and download a fragment of the recording made by us yourself
 To make it look the same as in the screenshot above, select the **View** > **Waveform & Spectral View** menu item or just press **Ctrl + 3**.
 In the time domain (the upper half of the window), the eye does not cling to anything, and on the spectrogram (the lower half of the window), approximately 150 msec from the beginning, a powerful "burst" is seen (considering that it is outside the working band of the hydrophone) in the several hundred by a couple of kilohertz.
 
-> A low-pass filter is a low-pass filter, it filters _low frequencies_ from _high_. This term is often confusing. In this case, it is convenient to recall the English name _Lowpass filter_, which means _low pass_.
-
 To highlight this area, you can apply a low-pass filter to the entire signal, thereby filtering out all frequencies above about 2 kHz.
 To do this, select the **Effects** > **Filter** > **Lowpass Filter ...** menu item. In the dialogue box that appears, set the upper filter frequency (passband limit) to about 2 kHz:
 
