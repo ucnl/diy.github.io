@@ -6,11 +6,11 @@
 # Appendix to [project 2](/projects/preamplifier_for_hydrophone/): recording of underwater sounds from under the ice
 
 ### Contents
-- [Дисклеймер](#disclaimer)
-- [Введение](#introduction)
-- [Разбор фрагмента 1](#analysing-fragment-1)
-- [Разбор фрагмента 2](#analysing-fragment-2)
-- [Фрагмент 3](#fragment-3)
+- [Disclaimer](#disclaimer)
+- [Introduction](#introduction)
+- [Analysing fragment 1](#analysing-fragment-1)
+- [Analysing fragment 2](#analysing-fragment-2)
+- [Fragment 3](#fragment-3)
 
 <div style="page-break-after: always;"></div>
 
@@ -21,7 +21,7 @@ If you repeat the experiments described in this material - you act at your own p
 
 ## Introduction
 In this article we describe the experience of using a previously made [hydrophone with preamplifier](/projects/preamplifier_for_hydrophone/README_RU).
-At the beginning of December, we were very lucky with the weather - sunny, calm, in two weeks of frost the ice on small reservoirs gained sufficient strength. We have just prepared prototypes of equipment for testing our new tracking system [WAYU] (https://docs.unavlab.com/navigation_and_tracking_systems_ru.html#wayu) and went at one of the crossings in the [Volgo-Don Shipping Canal] (https: //goo.gl/maps/rmktnCWcauE4HbcZ6). We decided not to miss the chance to test our hydrophone in a real reservoir - this is, firstly, an excellent demonstration of its capabilities, and secondly, using real recordings as an example, we can teach the simplest techniques for working with sound recordings.
+At the beginning of December, we were very lucky with the weather - sunny, calm, in two weeks of frost the ice on small reservoirs gained sufficient strength. We have just prepared prototypes of equipment for testing our new tracking system [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_ru.html#wayu) and went at one of the crossings in the [Volgo-Don Shipping Canal](https://goo.gl/maps/rmktnCWcauE4HbcZ6). We decided not to miss the chance to test our hydrophone in a real reservoir - this is, firstly, an excellent demonstration of its capabilities, and secondly, using real recordings as an example, we can teach the simplest techniques for working with sound recordings.
 
 Winter bodies of stagnant water enclosed in ice cover are ideal conditions for recording underwater sounds because there is no noise from wind waves and shipping.
 
