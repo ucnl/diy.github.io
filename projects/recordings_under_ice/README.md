@@ -20,7 +20,7 @@ If you have no experience, you have not been instructed in safety precautions or
 If you repeat the experiments described in this material - you act at your own peril and risk - we are not responsible for your safety!**
 
 ## Introduction
-In this article we describe the experience of using a previously made [hydrophone with preamplifier](/projects/preamplifier_for_hydrophone/README_RU).
+In this article we describe the experience of using a previously made [hydrophone with preamplifier](/projects/preamplifier_for_hydrophone/README).
 At the beginning of December, we were very lucky with the weather - sunny, calm, in two weeks of frost the ice on small reservoirs gained sufficient strength. We have just prepared prototypes of equipment for testing our new tracking system [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_en.html#wayu) and went at one of the crossings in the [Volgo-Don Shipping Canal](https://goo.gl/maps/rmktnCWcauE4HbcZ6). We decided not to miss the chance to test our hydrophone in a real reservoir - this is, firstly, an excellent demonstration of its capabilities, and secondly, using real recordings as an example, we can teach the simplest techniques for working with sound recordings.
 
 Winter bodies of stagnant water enclosed in ice cover are ideal conditions for recording underwater sounds because there is no noise from wind waves and shipping.
