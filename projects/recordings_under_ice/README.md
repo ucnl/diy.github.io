@@ -16,7 +16,7 @@
 
 ## Disclaimer
 **ATTENTION!!! Water bodies are an increased source of danger, and if you are on the water or on the surface of the ice, it requires the strictest observance of safety rules!
-If you have no experience, you have not been instructed in safety precautions or you are a minor - in no case go out on the water or ice of the reservoir !!!
+If you have no experience, you have not been instructed in safety precautions or you are a minor - in no case go out on the water or ice of a water body!!!
 If you repeat the experiments described in this material - you act at your own peril and risk - we are not responsible for your safety!**
 
 ## Introduction
