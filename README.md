@@ -11,12 +11,12 @@
   - [Appendix to Project 2: recording of underwater sounds from under the ice](/projects/recordings_under_ice/)
 - COMING SOON: [Project 3. Hardcore: locating a submarine with Arduinos]()
 
-# Products
+# If you don't want to make, you can order:
 ## uSwitch
 ### Underwater acoustic amature remote control system  
 * [COMING SOON: Data brief: uSwitch](/products/uSwitch/uSwitch_DataBrief_en.md)
-* [COMING SOON: Спецификация устройства: uSwitch TX](/products/uSwitch/uSwitch_TX_Specification_en.md)
-* [COMING SOON: Спецификация устройства: uSwitch RX](/products/uSwitch/uSwitch_RX_Specification_en.md)
+* [COMING SOON: Device specification: uSwitch TX](/products/uSwitch/uSwitch_TX_Specification_en.md)
+* [COMING SOON: Device specification: uSwitch RX](/products/uSwitch/uSwitch_RX_Specification_en.md)
 * [COMING SOON: uSwitch: videos, tutorials, etc.](/products/uSwitch/media)
 * [COMING SOON: uSwitch: Examples for Arduino]()
 
