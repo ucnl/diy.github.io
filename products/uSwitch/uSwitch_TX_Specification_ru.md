@@ -1,4 +1,4 @@
-| ![logo](https://ucnl.github.io/documentation/sm_logo.png) | ![pic]() |
+| ![logo](https://ucnl.github.io/documentation/sm_logo.png) | ![pic](uSwitch_TX.png) |
 | :---: | ---: |
 | [www.unavlab.com](https://www.unavlab.com/) <br/> [support@unavlab.com](mailto:support@unavlab.com) | **uSwitch TX** - Модуль гидроакустического передатчика <br/> Спецификация устройства |
 
