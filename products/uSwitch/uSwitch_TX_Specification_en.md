@@ -27,7 +27,7 @@ Transmission control is made as simple as possible and is carried out by three d
 | MAX. ACOUSTIC RANGE<sup>[1](#footnote1),[2](#footnote2),[5](#footnote5)</sup> | 300 m |
 | POWER CONSUMPTION Standby/Tx | 20/500 mA |
 | SUPPLY VOLTAGE<sup>[2](#footnote2),[3](#footnote3)</sup> | 5 .. 15 V |
-| НАПРЯЖЕНИЕ ЛИНИЙ ДАННЫХ<sup>[3](#footnote3)</sup> | 0 .. 5 V |
+| DATA LINES VOLTAGE<sup>[3](#footnote3)</sup> | 0 .. 5 V |
 | BANDWIDTH<sup>[4](#footnote4)</sup> | 21 .. 29 kHz |
 | MAX. NUMBER OF CONTROL CODES | 4 |
 | MIN. TIME BETWEEN TWO MESSAGES | 500 ms |
