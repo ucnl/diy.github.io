@@ -1,9 +1,9 @@
 
 | ![logo](https://ucnl.github.io/documentation/sm_logo.png) | ![pic](uSwitch_TX.png) |
 | :---: | ---: |
-| [www.unavlab.com](https://www.unavlab.com/) <br/> [support@unavlab.com](mailto:support@unavlab.com) | **uSwitch** - Гидроакустическая система телеуправления <br/> Краткое описание |
+| [www.unavlab.com](https://www.unavlab.com/) <br/> [support@unavlab.com](mailto:support@unavlab.com) | **uSwitch** - a hydroacoustic remote control system <br/> Data brief |
 
-# **uSwitch** - hydroacoustic remote controle system <br/> Data brief
+# **uSwitch** - A hydroacoustic remote control system <br/> Data brief
 
 <div style="page-break-after: always;"></div>
 
@@ -11,94 +11,93 @@
 We develop a wide range of professional hydroacoustic communication and navigation equipment using the most advanced technologies in our field. Such equipment is very difficult (and very expensive!) to develop and test, which naturally affects its availability to a wide range of consumers.
 At the same time, we believe that the availability of technology, especially for new generations of researchers and engineers, is extremely important. That is why we are moving towards the popularization of hydroacoustics, and we hope that ** uSwitch ** will become one of those projects that will allow a large number of enthusiasts and fans to _dive_ into the world of underwater communications. After all, most of the world's oceans have not yet been explored!
 
-## 1. Принцип действия
-[uSwitch TX](uSwitch_TX_Specification_ru) и [uSwitch RX](uSwitch_RX_Specification_ru) - две небольшие печатные платы (модули): передатчик и приемник. При помощи них вы можете передавать до 4 различных сигналов управления через толщу воды, на дистанции до 300 метров.
+## 1. Operating principle
+[uSwitch TX](uSwitch_TX_Specification_en) and [uSwitch RX](uSwitch_RX_Specification_en) are two small printed circuit boards (modules): transmitter and receiver. With the help of them, you can transmit up to **4** different **control signals** through the water column, at a distance of **up to 300 meters**.
 
-Работа с модулями исключительно проста: достаточно подключить гидроакустические антенны и подать питание.
-На каждом из модулей есть контакты *STROBE*, ***BIT 0** и **BIT 1**. В _передатчике_ это _цифровые входы_, а в _приемнике_ - _цифровые выходы_.
-По умолчанию все эти контакты и на приемнике и на передатчике установлены в состояние цифровой единицы (3.3 Вольта). 
+Working with the modules is extremely simple: just connect the hydroacoustic antennas and turn on the power.
+Each of the modules has pins **STROBE**, **BIT 0** and **BIT 1**. In the _transmitter_ these are _digital inputs_, and in the _receiver_ they are _digital outputs_.
+By default, all of these pins on both the receiver and transmitter are set to digital one (3.3 Volts).
 
-Передаваемый код формируется состоянием контактов (пинов) **BIT 0** и **BIT 1**, а передача происходит, когда состояние пина **STROBE** переходит из состояния цифровой единицы в стотояние цифрового нуля.
+The transmitted code is formed by the state of the contacts (pins) **BIT 0** and **BIT 1**, and the transfer occurs when the state of the pin **STROBE** changes from the state of a digital one to the state of digital zero.
 
-На приемной стороне принятый код вызывает изменение пинов **BIT 0** и **BIT 1**, а факт приема - переходом пина **STROBE** в состояние цифрового нуля.
+On the receiving side, the received code causes a change in pins **BIT 0** and **BIT 1**, and the fact of reception - by the transition of pin **STROBE** to the state of digital zero.
 
-Так как есть два _информационных_ пина (**BIT 0** и **BIT 1**) и у каждого может быть два цифровых состояния, то всего можно передать 4 различных кода.
+Since there are two _information_ pins (**BIT 0** and **BIT 1**) and each can have two digital states, 4 different codes can be transmitted in total.
 
-Такая архитектура позволяет использовать модули **uSwitch** как с различными платформами типа **Arduino**, так и при помощи простых элементов типа кнопки, светодиодов, реле и прочих, управляемых при помощи TTL-уровней.
+This architecture allows using the **uSwitch** modules both with various platforms like **Arduino**, and with simple elements such as buttons, LEDs, relays and others, controlled by TTL levels.
 
-## 2. Использование модулей
+## 2. Using modules
 
-На рисунках 1 и 2 приведены схемы подключения.
+Figures 1 and 2 show the connection diagrams.
 
-Оба модуля питаются от источника постоянного тока напряжением от 5 до 15 вольт, что позволяет использовать для питания модулей как **USB-порт** ПК, **Power bank**, так и **свинцовые** 12-вольтовые аккумуляторы и сборки на основе **Li-Ion** аккумуляторов.
+Both modules are powered from a DC source with a voltage of 5 to 15 volts, which allows using both PC **USB port**, **Power bank**, and **lead-acid** 12-volt batteries and assemblies based on **Li-Ion** batteries to power the modules.
 
-Гидроакустическая передающая антенна подключается к площадкам **OUT** и **GND**, расположенным в правой части печатной платы модуля передатчика.
+The hydroacoustic transmitting antenna is connected to the **OUT** and **GND** pads located on the right side of the transmitter module PCB.
 
 | |
 | :---: |
 | ![tx](uSwitch_TX_connection.png) |
-| Рис. 1 - Схема подключения модуля передатчика [uSwitch TX](uSwitch_TX_Specification_ru) |
+| Fig. 1 - [uSwitch TX](uSwitch_TX_Specification_en) wiring diagram |
 
-Гидроакустическая приемная антенна подключается к площадкам **IN** и **GND**, расположенным в правой части печатной платы модуля приемника.
+The hydroacoustic receiving antenna is connected to the **IN** and **GND** pads located on the right side of the receiver module PCB.
 
 | |
 | :---: |
 | ![rx](uSwitch_RX_connection.png) |
-| Рис. 2 - Схема подключения модуля приемника [uSwitch RX](uSwitch_RX_Specification_ru) |
+| Fig. 2 - [uSwitch RX](uSwitch_RX_Specification_en) wiring diagram |
 
-На обоих модулях для сопряжения с внешними устройствами используются одни и те же пины, на передатчике - это цифровые входы, притянутые к единице, а на приемнике - цифровые выходы с открытым коллектором.
-Активное состояние входов передатчика - цифровой ноль.
-Для удобства подключения, нижняя часть разъема подключена к земле. 
+On both modules, the same pins are used for interfacing with external devices, on the transmitter these are digital inputs pulled to one, and on the receiver, they are digital outputs with an open collector.
+The active state of the transmitter inputs is digital zero.
+For ease of connection, the bottom of the connector is connected to the ground.
 
-Для передачи одно из четырех кодов, при помощи пинов **3** и **5** (**BIT 0** и **BIT 1** соответственно) формируется передаваемый код. Соответствие номера кода и состояние пинов отражено в таблице 1.
+To transmit one of the four codes, using pins **3** and **5** (**BIT 0** and **BIT 1**, respectively) the transmitted code is formed. The correspondence of the code number and the state of the pins is shown in table 1.
 
-При приеме кода модулем приемника, он, при помощи пинов **3** и **5** (**BIT 0** и **BIT 1** соответственно) формирует принятый код и переводит пин **1** (**STROBE**) в состояние цифрового нуля на 100 миллисекунд. Таким образом, подключенная к нему система должна считать состояние пинов **3** и **5** после перехода пина **1** в состояние цифрового нуля.
+When the code is received by the receiver module, it, using pins **3** and **5** (**BIT 0** and **BIT 1**, respectively) forms the received code and translates pin **1** (**STROBE**) to digital zero for 100 milliseconds. Thus, the system connected to it should read the state of pins **3** and **5** after the transition of pin **1** to the state of digital zero.
 
-#### Таблица 1 - Соответствие состояние пинов и передаваемых/принимаемых кодов
+#### Table 1 - Correspondence of the state of pins and transmitted/received codes
 
-| **BIT 0** (pin 3) | **BIT 1** (pin 5) | Передаваемый код |
+| **BIT 0** (pin 3) | **BIT 1** (pin 5) | Transmitted code |
 | :---: | :---: | :---: |
 | 0 | 0 | 0 |
 | 1 | 0 | 1 |
 | 0 | 1 | 2 |
 | 1 | 1 | 3 |
 
-После формирования передаваемого кода, для его передачи по гидроакустическому каналу, пин **1** (**STROBE**) должен быть переведен в состояние цифрового нуля на время, не менее 100 миллисекунд. Повторная передача может производится не ранее чем через 500 миллисекунд после начала предыдущей.
+After the formation of the transmitted code, for its transmission via the hydroacoustic channel, pin **1** (**STROBE**) must be set to digital zero for a time of at least 100 milliseconds. The retransmission can be performed no earlier than 500 milliseconds after the beginning of the previous one.
 
-Временная диаграмма взаимодействия с модулями приведена на рисунке 3:
+The timing diagram of interaction with modules is shown in Figure 3:
 
 | |
 | :---: |
 | ![tx/rx time chart](uSwitch_txrx_diagram.png) |
-| Рис. 3 - Временная диаграмма взаимодействия с модулями |
+| FIg. 3 - The timing diagram of interaction with modules |
 
-## 3. Гидроакустичемкие антенны
-Модуль [передатчика](uSwitch_TX_Specification_ru) рассчитан на работу с антенной [RT-1.332820-1](https://docs.unavlab.com/documentation/RU/Transducers/RT_1_332820_1_Specification_ru.html), а к модулю [применика](uSwitch_RX_Specification_ru) можно подключать практически любую пьезокерамическую гидроакустическую антенну, например, недорогую [RT-1.d23h03-1](/products/Transducers/RT_1_d23h03_1_ru) на основе дискового пьезоэлемента.
-При желании, вы можете изготовить ее самостоятельно, воспользовавшись [нашими инструкциями](/projects/disk_hydrophone/README_RU.html).
+## 3. Hydroacoustic antennas
+The [transmitter module](uSwitch_TX_Specification_en) is designed to work with the antenna [RT-1.332820-1](https://docs.unavlab.com/documentation/RU/Transducers/RT_1_332820_1_Specification_ru.html), and to the [receiver module](uSwitch_RX_Specification_en) you can connect almost any piezoceramic hydroacoustic antenna, for example, an inexpensive [RT-1.d23h03-1](/products/Transducers/ RT_1_d23h03_1_ru) based on a disk piezoelectric element.
+If you wish, you can make it yourself using [our instructions](/projects /disk_hydrophone/README_EN.html).
 
-## 4. Ограничения
-### 4.1. Ограничения со стороны распространения звука в воде
-Гидроакустический канал связи является одним из самых сложных для передачи информации, поэтому необходимо иметь в виду следующие условия для работы любой гидроакустической системы связи:
-- для работы всегда нужна "прямая видимость". Это значит, что на пути акустического сигнала между передатчиком и приемником не должны быть никаких препятствий: элементов подводного ландшафта, плотных зарослей водорослей, элементов инфраструктуры (например, судов с низкой осадкой, опор мостов, причальных стенок и т.п.). 
-- антенны и приемника и передатчика должны быть на достаточной глубине, как минимум 1-1.5 метра в крупных водоемах.
-- сильная зашумленность в водоемах (например, в виду активного судоходства или каких-то природных факторов) также может значительно влиять на качество связи и максимальную дальность работы гидроакустических систем.
+## 4. Limitations
+### 4.1. Limitations from the side of sound propagation in water
+The hydroacoustic communication channel is one of the most difficult to transmit information, therefore, the following conditions must be borne in mind for the operation of any hydroacoustic communication system:
+- you always need a "line of sight" to work. This means that there should be no obstacles in the path of the acoustic signal between the transmitter and receiver: elements of the underwater landscape, dense thickets of algae, infrastructure elements (for example, vessels with low draft, bridge supports, quay walls, etc.).
+- antennas of both the receiver and the transmitter should be at a sufficient depth, at least 1-1.5 meters in large bodies of water.
+- strong noisiness in water bodies (for example, due to active navigation or some natural factors) can also significantly affect the quality of communication and the maximum range of operation of hydroacoustic systems.
 
-### 4.2. Ограничения архитектуры
-Мы постарались сделать максимально доступные и максимально функциональные устройства, в чем-то нам пришлось пойти на компромисс. Т.к. различные коды передаются последовательно передаваемыми тональными посылками, то достоверность кодов неодинаковая и убывает с увеличением кода. Если вам требуется использовать менее четырех кодов, то следует отдавать предпочтение младшим кодам.
+### 4.2. Architecture limitations
+We tried to make the most affordable and most functional devices, in some ways we had to compromise. Because different codes are transmitted by sequentially transmitted tone bursts, then the reliability of the codes is not the same and decreases with increasing code. If you need to use less than four codes, then you should give preference to lower codes.
 
-## 5. Предупреждение
-**Пьезокерамические гидроакустические антенны устроены так, что развиваемое ими давление сильно зависит от подаваемого на них напряжения, поэтому в модуле передатчика в момент излучения сигнала возникает опасное для жизни высокое напряжение, амплитуда которого достигает 200 Вольт. Принимайте все требуемые меры защиты: во время работы передатчика никогда не прикасайтесь руками и любыми другими частями тела к плате и месту подключения гидроакустической антенны!!!**
-
+## 5. Warning
+**Piezoceramic hydroacoustic antennas are designed in such a way that the pressure they develop strongly depends on the voltage applied to them, therefore, a life-threatening high voltage arises in the transmitter module at the time of signal emission, the amplitude of which reaches 200 volts. Take all required protective measures: while the transmitter is operating, never touch the board and the hydroacoustic antenna connection with your hands or any other parts of your body !!!**
 
 ## 6. FAQ
-**Q**: *Есть ли ограничение на количество приемников, работающих с одним передатчиком?*  
-**А**: **Таких ограничений нет: все устройства работают в общей полосе частот. Сколько угодно приемников примут сигнал от передатчика, при условии что он до них дойтет. Однако, учитывая скорость звука в воде (порядка 1500 м/с) это может произойти в разное время, с задержкой, пропорциональной дальности.**  
+**Q**: *Is there a limit on the number of receivers working with one transmitter?*  
+**A**: **There are no such restrictions: all devices operate in a common frequency band. Any number of receivers will receive the signal from the transmitter, provided that it reaches them. However, given the speed of sound in water (about 1500 m/s), this can happen at different times, with a delay proportional to the range.**  
 
-**Q**: *Возможно ли работать на одном водоеме несколькими комплектами системы?*  
-**A**: **Нужно учитывать, что все устройства работают в общем диапазоне и любой приемник будет реагировать на любой передатчик, если сигнал до него доходит. Пользователю придется самостоятельно обеспечивать разделение сигналов по времени.**  
+**Q**: *Is it possible to work on one reservoir with several sets of the system?*  
+**A**: **It should be borne in mind that all devices operate in a common range and any receiver will respond to any transmitter if the signal reaches it. The user will have to independently ensure the separation of signals in time.**  
 
-**Q**: *Приемник может различать сигналы от разных передатчиков?*  
-**A**: **Нет. Такой возможности не предусмотрено.**  
+**Q**: *Can the receiver distinguish between signals from different transmitters?*  
+**A**: **No. This option is not provided.**  
 
-**Q**: *Почему такая разница в дальностях при использовании антенн [RT-1.332820-1](https://docs.unavlab.com/documentation/RU/Transducers/RT_1_332820_1_Specification_ru.html) и [RT-1.d23h03-1](/products/Transducers/RT_1_d23h03_1_ru) в качестве передающих, 300 метров против 40?*  
-**A**: **Говоря простыми словами, дальность передачи определяется чувствительностью приемника и давлением, развиваемым передающей антенной. Плоская и недорогая антенна не позволяет закачать в нее требуемую мощность.**
+**Q**: *Why is there such a difference in ranges when using antennas [RT-1.332820-1](https://docs.unavlab.com/documentation/RU/Transducers/RT_1_332820_1_Specification_en.html) and [RT-1.d23h03 -1](/products/Transducers/RT_1_d23h03_1_ru) as transmitters, 300 meters versus 40?*  
+**A**: **In simple terms, the transmission range is determined by the sensitivity of the receiver and the pressure developed by the transmitting antenna. A flat and inexpensive antenna does not allow the required power to be pumped into it.**  
