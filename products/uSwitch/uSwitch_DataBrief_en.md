@@ -73,8 +73,8 @@ The timing diagram of interaction with modules is shown in Figure 3:
 | FIg. 3 - The timing diagram of interaction with modules |
 
 ## 3. Hydroacoustic antennas
-The [transmitter module](uSwitch_TX_Specification_en) is designed to work with the antenna [RT-1.332820-1](https://docs.unavlab.com/documentation/RU/Transducers/RT_1_332820_1_Specification_ru.html), and to the [receiver module](uSwitch_RX_Specification_en) you can connect almost any piezoceramic hydroacoustic antenna, for example, an inexpensive [RT-1.d23h03-1](/products/Transducers/ RT_1_d23h03_1_ru) based on a disk piezoelectric element.
-If you wish, you can make it yourself using [our instructions](/projects /disk_hydrophone/README_EN.html).
+The [transmitter module](uSwitch_TX_Specification_en) is designed to work with the antenna [RT-1.332820-1](https://docs.unavlab.com/documentation/EN/Transducers/RT_1_332820_1_Specification_en.html), and to the [receiver module](uSwitch_RX_Specification_en) you can connect almost any piezoceramic hydroacoustic antenna, for example, an inexpensive [RT-1.d23h03-1](/products/Transducers/RT_1_d23h03_1_ru) based on a disk piezoelectric element.
+If you wish, you can make it yourself using [our instructions](/projects/disk_hydrophone/README_EN.html).
 
 ## 4. Limitations
 ### 4.1. Limitations from the side of sound propagation in water
@@ -99,5 +99,5 @@ We tried to make the most affordable and most functional devices, in some ways w
 **Q**: *Can the receiver distinguish between signals from different transmitters?*  
 **A**: **No. This option is not provided.**  
 
-**Q**: *Why is there such a difference in ranges when using antennas [RT-1.332820-1](https://docs.unavlab.com/documentation/RU/Transducers/RT_1_332820_1_Specification_en.html) and [RT-1.d23h03 -1](/products/Transducers/RT_1_d23h03_1_ru) as transmitters, 300 meters versus 40?*  
+**Q**: *Why is there such a difference in ranges when using antennas [RT-1.332820-1](https://docs.unavlab.com/documentation/EN/Transducers/RT_1_332820_1_Specification_en.html) and [RT-1.d23h03 -1](/products/Transducers/RT_1_d23h03_1_en) as transmitters, 300 meters versus 40?*  
 **A**: **In simple terms, the transmission range is determined by the sensitivity of the receiver and the pressure developed by the transmitting antenna. A flat and inexpensive antenna does not allow the required power to be pumped into it.**  
