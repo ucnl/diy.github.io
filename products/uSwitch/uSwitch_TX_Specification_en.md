@@ -29,6 +29,7 @@ Transmission control is made as simple as possible and is carried out by three d
 | SUPPLY VOLTAGE<sup>[2](#footnote2),[3](#footnote3)</sup> | 5 .. 15 V |
 | DATA LINES VOLTAGE<sup>[3](#footnote3)</sup> | 0 .. 5 V |
 | BANDWIDTH<sup>[4](#footnote4)</sup> | 21 .. 29 kHz |
+| ACOUSTIC SOURCE LEVEL<sup>[2](#footnote2),[5](#footnote5)</sup> | 140 dB re 1 μPa @ 1 m |
 | MAX. NUMBER OF CONTROL CODES | 4 |
 | MIN. TIME BETWEEN TWO MESSAGES | 500 ms |
 | MAX. MESSAGE DURATION | 100 ms |
