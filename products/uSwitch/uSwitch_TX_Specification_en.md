@@ -5,7 +5,7 @@
 ## KEY FEATURES
 
 * **Maximum ease of use and integration**
-* **Transmit up to 4 control codes**
+* **Transmits up to 4 control codes**
 * **Communication range up to 300 <sup>[1](#footnote1), [2](#footnote2)</sup> m**
 * **Low power consumption (Standby/Tx) 20/500 mA**
 
