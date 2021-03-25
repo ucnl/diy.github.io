@@ -13,14 +13,14 @@
 # If you don't want to make, you can order:
 ## uSwitch
 ### Underwater acoustic amature remote control system  
-* [COMING SOON: Data brief: uSwitch](/products/uSwitch/uSwitch_DataBrief_en.md)
-* [COMING SOON: Device specification: uSwitch TX](/products/uSwitch/uSwitch_TX_Specification_en.md)
-* [COMING SOON: Device specification: uSwitch RX](/products/uSwitch/uSwitch_RX_Specification_en.md)
+* [Data brief: uSwitch](/products/uSwitch/uSwitch_DataBrief_en.md)
+* [Device specification: uSwitch TX](/products/uSwitch/uSwitch_TX_Specification_en.md)
+* [Device specification: uSwitch RX](/products/uSwitch/uSwitch_RX_Specification_en.md)
 * [COMING SOON: uSwitch: videos, tutorials, etc.](/products/uSwitch/media)
 * [COMING SOON: uSwitch: Examples for Arduino]()
 
 ## Transducers & hydrophones
-* [COMING SOON: Transducer RT-1.d23h03-1](/products/transducers/RT_1_d23h03_1_en.md)
+* [Transducer RT-1.d23h03-1](/products/transducers/RT_1_d23h03_1_en.md)
 
 # Our other education projects
 * [Online utilities](https://docs.unavlab.com/online_utilities_ru.html): Proper depth caltulation, speed of sound, vertical sound path, world salinity database, etc.
