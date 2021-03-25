@@ -11,7 +11,7 @@
 
 
 ## DESCRIPTION
-The module is made in the form of a printed circuit board to which the hydroacoustic transmitting antenna is connected. The device allows transmitting up to 4 control codes using a hydroacoustic (ultrasonic) signal, which can then be received and transmitted to the user using the [uSwitch RX] receiving module (uSwitch_RX_Specification_ru).
+The module is made in the form of a printed circuit board to which the hydroacoustic transmitting antenna is connected. The device allows transmitting up to 4 control codes using a hydroacoustic (ultrasonic) signal, which can then be received and transmitted to the user using the [uSwitch RX](uSwitch_RX_Specification_ru) receiving module.
 
 The TX and RX modules are specially designed by us for the DIY community, enthusiasts, underwater RC model makers as an affordable underwater telecontrol system.
 
