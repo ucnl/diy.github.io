@@ -9,7 +9,7 @@
 
 ## 0. Motivation
 We develop a wide range of professional hydroacoustic communication and navigation equipment using the most advanced technologies in our field. Such equipment is very difficult (and very expensive!) to develop and test, which naturally affects its availability to a wide range of consumers.
-At the same time, we believe that the availability of technology, especially for new generations of researchers and engineers, is extremely important. That is why we are moving towards the popularization of hydroacoustics, and we hope that ** uSwitch ** will become one of those projects that will allow a large number of enthusiasts and fans to _dive_ into the world of underwater communications. After all, most of the world's oceans have not yet been explored!
+At the same time, we believe that the availability of technology, especially for new generations of researchers and engineers, is extremely important. That is why we are moving towards the popularization of hydroacoustics, and we hope that **uSwitch** will become one of those projects that will allow a large number of enthusiasts and fans to _dive_ into the world of underwater communications. After all, most of the world's oceans have not yet been explored!
 
 ## 1. Operating principle
 [uSwitch TX](uSwitch_TX_Specification_en) and [uSwitch RX](uSwitch_RX_Specification_en) are two small printed circuit boards (modules): transmitter and receiver. With the help of them, you can transmit up to **4** different **control signals** through the water column, at a distance of **up to 300 meters**.
