@@ -1,5 +1,5 @@
 
-| ![logo](https://ucnl.github.io/documentation/sm_logo.png) | ![pic]() |
+| ![logo](https://ucnl.github.io/documentation/sm_logo.png) | ![pic](uSwitch_RX.png) |
 | :---: | ---: |
 | [www.diy.unavlab.com](https://diy.www.unavlab.com/) <br/> [support@unavlab.com](mailto:support@unavlab.com) | **uSwitch RX** - Модуль гидроакустического приемника <br/> Спецификация устройства |
 
