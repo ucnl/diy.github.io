@@ -6,7 +6,7 @@
 ## KEY FEATURES
 
 * **Maximum ease of use and integration**
-* **Receives up to 4 control codes**
+* **Receives up to 8 control codes**
 * **Communication range up to 300 <sup>[1](#footnote1),[2](#footnote2)</sup> m**
 * **Low power consumption - 20 mA**
 
@@ -30,7 +30,7 @@ Working with the device is as simple as possible: when the control signal is rec
 | SUPPLY VOLTAGE<sup>[2](#footnote2),[3](#footnote3)</sup> | 5 .. 15 V |
 | DATA LINES VOLTAGE<sup>[3](#footnote3)</sup> | 0 .. 5 V |
 | BANDWIDTH<sup>[4](#footnote4)</sup> | 21 .. 29 kHz |
-| MAX. NUMBER OF CONTROL CODES | 4 |
+| MAX. NUMBER OF CONTROL CODES | 8 |
 | MIN. TIME BETWEEN TWO MESSAGES | 500 ms |
 | MAX. MESSAGE DURATION | 100 ms |
 | MAX. RELATIVE VELOCITY | +/- 2 m/s |
