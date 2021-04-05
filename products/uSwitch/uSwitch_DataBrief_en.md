@@ -5,6 +5,8 @@
 
 # **uSwitch** - A hydroacoustic remote control system <br/> Data brief
 
+**WARNING! Current version supports only 4 codes, 8 codes are planned for the next version**
+
 <div style="page-break-after: always;"></div>
 
 ## 0. Motivation
