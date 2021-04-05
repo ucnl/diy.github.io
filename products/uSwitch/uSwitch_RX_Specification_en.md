@@ -6,7 +6,7 @@
 ## KEY FEATURES
 
 * **Maximum ease of use and integration**
-* **Receives up to 8 control codes**
+* **Receives up to 8 control codes (4 currently available, 8 - in the next version)**
 * **Communication range up to 300 <sup>[1](#footnote1),[2](#footnote2)</sup> m**
 * **Low power consumption - 20 mA**
 
