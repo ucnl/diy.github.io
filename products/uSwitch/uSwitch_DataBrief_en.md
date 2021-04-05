@@ -110,3 +110,15 @@ We tried to make the most affordable and most functional devices, in some ways w
 
 **Q**: *Why is there such a difference in ranges when using antennas [RT-1.332820-1](https://docs.unavlab.com/documentation/EN/Transducers/RT_1_332820_1_Specification_en.html) and [RT-1.d23h03 -1](/products/Transducers/RT_1_d23h03_1_en) as transmitters, 300 meters versus 40?*  
 **A**: **In simple terms, the transmission range is determined by the sensitivity of the receiver and the pressure developed by the transmitting antenna. A flat and inexpensive antenna does not allow the required power to be pumped into it.**  
+
+**Q**: *Can the transmitter module be powered by batteries??*  
+**A**: **Yes, 9V "transistor" type battery is OK, but since it is only 9V (not 15) you probably will not achieve the maximum range (300 m)**  
+
+**Q**: *Can acoustic or electromagnetic noise affect the performance of the system?*  
+**A**: **Yes. The receiver is most vulnerable in this sense. The most unfavourable noise is in the working band - 20-30 kHz.**  
+
+**Q**: *My task requires a larger number of control signals and a longer range, is it possible to somehow modify the system?*
+**A**: **The system was conceived as a hobbyist, and the current performance is actually the limit for the platform used. If you need a larger number of control messages and/or the transfer of arbitrary data, greater range and reliability, then we recommend paying attention to our micromodems [uWAVE](https://docs.unavlab.com/underwater_acoustic_modems_en.html#uwave)**
+
+**Q**: *I need acknowledgement that the command I send is received by a remote system, how can this be provided?*
+**A**: **The easiest way to use two pairs of receiver-transmitter is to connect both pairs pin to pin (pins 1,3,5 and 7). The second method involves the use of the [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_ru.html#wayu) tracking system: the transmitter module is located on the controlled object, the STROBE pins of the receiver and W_PING of the transmitter are connected. Thus, upon receipt of any control signal, the controlled object will emit the pinger signal of the navigation system [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_ru.html#wayu), which will be received by the navigation buoys, after which the geographical position of the controlled object will be calculated, which will be the fact of successful reception of the control command.**
