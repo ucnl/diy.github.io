@@ -16,7 +16,7 @@ The device is designed to receive hydroacoustic (ultrasonic) signals generated b
 
 The TX and RX modules are specially designed by us for the DIY community, enthusiasts, underwater RC model makers as an affordable underwater telecontrol system.
 
-Working with the device is as simple as possible: when the control signal is received via the hydroacoustic channel, digital levels are formed at the outputs, signalling the user about the fact of receiving the signal and the received code (two digital outputs form 4 variants of the received codes).
+Working with the device is as simple as possible: when the control signal is received via the hydroacoustic channel, digital levels are formed at the outputs, signalling the user about the fact of receiving the signal and the received code (three digital outputs form 8 variants of the received codes).
 
 <div style="page-break-after: always;"></div>
 
