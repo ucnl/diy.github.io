@@ -5,7 +5,7 @@
 ## KEY FEATURES
 
 * **Maximum ease of use and integration**
-* **Transmits up to 4 control codes**
+* **Transmits up to 8 control codes**
 * **Communication range up to 300 <sup>[1](#footnote1), [2](#footnote2)</sup> m**
 * **Low power consumption (Standby/Tx) 20/500 mA**
 
@@ -30,7 +30,7 @@ Transmission control is made as simple as possible and is carried out by three d
 | DATA LINES VOLTAGE<sup>[3](#footnote3)</sup> | 0 .. 5 V |
 | BANDWIDTH<sup>[4](#footnote4)</sup> | 21 .. 29 kHz |
 | ACOUSTIC SOURCE LEVEL<sup>[2](#footnote2),[5](#footnote5)</sup> | 140 dB re 1 μPa @ 1 m |
-| MAX. NUMBER OF CONTROL CODES | 4 |
+| MAX. NUMBER OF CONTROL CODES | 8 |
 | MIN. TIME BETWEEN TWO MESSAGES | 500 ms |
 | MAX. MESSAGE DURATION | 100 ms |
 | MAX. RELATIVE VELOCITY | +/- 2 m/s |
