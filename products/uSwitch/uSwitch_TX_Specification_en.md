@@ -8,10 +8,10 @@
 * **Transmits up to 8 control codes**
 * **Communication range up to 300 <sup>[1](#footnote1), [2](#footnote2)</sup> m**
 * **Low power consumption (Standby/Tx) 20/500 mA**
-* **Compatibility with [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_ru.html#wayu) tracking system**
+* **Compatibility with [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_en.html#wayu) tracking system**
 
 ## DESCRIPTION
-The module is made in the form of a printed circuit board to which the hydroacoustic transmitting antenna is connected. The device allows transmitting up to 8 control codes using a hydroacoustic (ultrasonic) signal, which can then be received and transmitted to the user using the [uSwitch RX](uSwitch_RX_Specification_ru) receiving module and the [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_ru.html#wayu) system pinger signal, which makes it possible to determine the geographical position of the transmitter module in a submerged state.
+The module is made in the form of a printed circuit board to which the hydroacoustic transmitting antenna is connected. The device allows transmitting up to 8 control codes using a hydroacoustic (ultrasonic) signal, which can then be received and transmitted to the user using the [uSwitch RX](uSwitch_RX_Specification_en) receiving module and the [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_en.html#wayu) system pinger signal, which makes it possible to determine the geographical position of the transmitter module in a submerged state.
 
 The TX and RX modules are specially designed by us for the DIY community, enthusiasts, underwater RC model makers as an affordable underwater telecontrol system.
 
