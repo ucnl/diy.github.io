@@ -5,13 +5,13 @@
 ## KEY FEATURES
 
 * **Maximum ease of use and integration**
-* **Transmits up to 8 control codes (4 currently available, 8 - in the next version)**
+* **Transmits up to 4 control codes**
 * **Communication range up to 300 <sup>[1](#footnote1), [2](#footnote2)</sup> m**
 * **Low power consumption (Standby/Tx) 20/500 mA**
 * **Compatibility with [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_en.html#wayu) tracking system (in the next version)**
 
 ## DESCRIPTION
-The module is made in the form of a printed circuit board to which the hydroacoustic transmitting antenna is connected. The device allows transmitting up to 8 control codes using a hydroacoustic (ultrasonic) signal, which can then be received and transmitted to the user using the [uSwitch RX](uSwitch_RX_Specification_en) receiving module and the [WAYU](https://docs.unavlab.com/navigation_and_tracking_systems_en.html#wayu) system pinger signal, which makes it possible to determine the geographical position of the transmitter module in a submerged state.
+The module is made in the form of a printed circuit board to which the hydroacoustic transmitting antenna is connected. The device allows transmitting up to 8 control codes using a hydroacoustic (ultrasonic) signal, which can then be received and transmitted to the user using the [uSwitch RX](uSwitch_RX_Specification_en) receiving module.
 
 The TX and RX modules are specially designed by us for the DIY community, enthusiasts, underwater RC model makers as an affordable underwater telecontrol system.
 
@@ -30,9 +30,8 @@ Transmission control is made as simple as possible and is carried out by three d
 | DATA LINES VOLTAGE<sup>[3](#footnote3)</sup> | 0 .. 5 V |
 | BANDWIDTH<sup>[4](#footnote4)</sup> | 21 .. 29 kHz |
 | ACOUSTIC SOURCE LEVEL<sup>[2](#footnote2),[5](#footnote5)</sup> | 140 dB re 1 μPa @ 1 m |
-| MAX. NUMBER OF CONTROL CODES | 8 |
+| MAX. NUMBER OF CONTROL CODES | 4 |
 | MIN. TIME BETWEEN TWO MESSAGES | 500 ms |
-| MIN. TIME BETWEEN TWO NAVIGATION PINGS | 2000 ms |
 | MAX. MESSAGE DURATION | 100 ms |
 | MAX. RELATIVE VELOCITY | +/- 2 m/s |
 | WORKING TEMPERATURE RANGE | -5 .. 50 °C |
