@@ -52,12 +52,12 @@ For ease of connection, the bottom of the connector is connected to the ground.
 
 To transmit one of the four codes, using pins **3** and **5** (**BIT 0** and **BIT 1**, respectively) the transmitted code is formed. The correspondence of the code number and the state of the pins is shown in table 1.
 
-When the code is received by the receiver module, it, using pins **3** and **5** (**BIT 0** and **BIT 1**, respectively) forms the received code and translates pin **1** (**STROBE**) to digital zero for 100 milliseconds. Thus, the system connected to it should read the state of pins **3**, **5** and **7** after the transition of pin **1** to the state of digital zero.
+When the code is received by the receiver module, it, using pins **3** and **5** (**BIT 0** and **BIT 1**, respectively) forms the received code and translates pin **1** (**STROBE**) to digital zero for 100 milliseconds. Thus, the system connected to it should read the state of pins **3** and **5** after the transition of pin **1** to the state of digital zero.
 
 #### Table 1 - Correspondence of the state of pins and transmitted/received codes
 
 | **BIT 0** (pin 3) | **BIT 1** (pin 5) | Transmitted code |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | 0 | 0 | 0 | 
 | 1 | 0 | 1 |
 | 0 | 1 | 2 |
