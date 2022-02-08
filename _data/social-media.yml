@@ -1,0 +1,41 @@
+email:
+  id: 'support@unavlab.com'
+  href: 'mailto:'
+  title: 'Email'
+  
+instagram:
+  id: 'unavlab'
+  href: 'https://www.insagram.com/'
+  title: 'Instagram'
+  
+telegramm_en:
+  id: 'underwaterthings_en'
+  href: 'https://t.me/'
+  title: 'Telegramm (EN)'
+  
+telegramm_ru:
+  id: 'underwaterthings'
+  href: 'https://t.me/'
+  title: 'Telegramm (RU)'
+
+facebook:
+  id: 'unavlab'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+
+github:
+  id: 'ucnl'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  
+youtube:
+  id: 'UCy96QyFWRXFKLK2fg-_hcAQ'
+  href: 'https://www.youtube.com/channel/'
+  title: 'youtube'
+  
+  
+  
+
+    © 2022 GitHub, Inc.
+
+    Terms
