@@ -27,10 +27,11 @@
 | Project | Description |
 | :--- | :--- |
 | [Online utilities](https://docs.unavlab.com/online_utilities_ru.html) | Proper depth caltulation, speed of sound, vertical sound path, world salinity database, etc. |
-| [UCNLNav](https://github.com/ucnl/UCNLNav) | Multilanguage geodesic & navigation library (*C#/Rust/Matlab/GNU Octave*) |
-| [UCNLPhysics](https://github.com/ucnl/UCNLPhysics) | Multilanguage library for fundamental properties of water (*C#/Rust/C/Matlab/GNU Octave/JavaScript*) |
-| [uMCPIno](https://github.com/AlekUnderwater/uMCPIno) | Simple & lightweight guaranteed delivery protocol (*C#/C/Arduino*) |
-| [UCNLNMEA](https://github.com/ucnl/UCNLNMEA) | Library for parsing & building NMEA0183-sentences |
+| [UCNLNav](https://github.com/ucnl/UCNLNav) | a library for solving geodetic and navigation problems *(C#/Rust/Matlab/GNU Octave)* |
+| [UCNLPhysics](https://github.com/ucnl/UCNLPhysics) | a library for estimation of fundamental properties of seawater *(C#/Rust/C/Matlab/GNU Octave/JavaScript)* |
+| [uMCPIno](https://github.com/AlekUnderwater/uMCPIno) | a lightweight communication protocol with guaranteed delivery *(C#/C/Arduino)* |
+| [UCNLNMEA](https://github.com/ucnl/UCNLNMEA) | a library for parsing/building NMEA sentences *(C#)* |
+| [uRayTracerDemo](https://github.com/ucnl/uRayTracerDemo) | Underwater sound propagation through layered medium |
 
 ## Support & Social media
 {% include social-media-links.html %}
