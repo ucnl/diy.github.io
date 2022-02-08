@@ -27,10 +27,10 @@
 | Проект | Описание |
 | :--- | :--- |
 | [Online утилиты](https://docs.unavlab.com/online_utilities_ru.html) | Расчет глубины, скорости звука, работа с NMEA0183 etc. |
-| [UCNLNav](https://github.com/ucnl/UCNLNav) | Библиотека для решения геодезических и навигационных задач (*C#/Rust/Matlab/GNU Octave*) |
-| [UCNLPhysics](https://github.com/ucnl/UCNLPhysics) | Библиотека для определения фундаментальных свойств морской воды (*C#/Rust/C/Matlab/GNU Octave/JavaScript*) |
-| [uMCPIno](https://github.com/AlekUnderwater/uMCPIno) | протокол с гарантированной доставкой и очередностью сообщений (*C#/C/Arduino*) |
-| [UCNLNMEA](https://github.com/ucnl/UCNLNMEA) | библиотека для парсигна и формирования NMEA-сообщений |
+| [UCNLPhysics](https://github.com/ucnl/UCNLPhysics) | Библиотека для определения фундаментальных свойств морской воды *(C#/Rust/C/Matlab/GNU Octave/JavaScript)* |
+| [uMCPIno](https://github.com/AlekUnderwater/uMCPIno) | Протокол с гарантированной доставкой и очередностью сообщений *(C#/C/Arduino)* |
+| [UCNLNMEA](https://github.com/ucnl/UCNLNMEA) | Библиотека для парсигна и формирования NMEA-сообщений *(C#)* |
+| [uRayTracerDemo](https://github.com/ucnl/uRayTracerDemo) | Трассировка лучей через слоистую среду |
 
 ## Техподдержка и соцсети
 {% include social-media-links.html %}
