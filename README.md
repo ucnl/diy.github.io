@@ -23,8 +23,14 @@
 * [Transducer RT-1.d23h03-1](/products/transducers/RT_1_d23h03_1_en.md)
 
 # Our other education projects
-* [Online utilities](https://docs.unavlab.com/online_utilities_ru.html): Proper depth caltulation, speed of sound, vertical sound path, world salinity database, etc.
-* [UCNLNav](https://github.com/ucnl/UCNLNav) - Multilanguage geodesic & navigation library (C#/Rust/Matlab/GNU Octave)
-* [UCNLPhysics](https://github.com/ucnl/UCNLPhysics) - Multilanguage library for fundamental properties of water (C#/Rust/C/Matlab/GNU Octave/JavaScript)
-* [uMCPIno](https://github.com/AlekUnderwater/uMCPIno) - Simple & lightweight guaranteed delivery protocol (C#/C/Arduino)
-* [UCNLNMEA](https://github.com/ucnl/UCNLNMEA) - Library for parsing & building NMEA0183-sentences
+
+| Project | Description |
+| :--- | :--- |
+| [Online utilities](https://docs.unavlab.com/online_utilities_ru.html) | Proper depth caltulation, speed of sound, vertical sound path, world salinity database, etc. |
+| [UCNLNav](https://github.com/ucnl/UCNLNav) | Multilanguage geodesic & navigation library (*C#/Rust/Matlab/GNU Octave*) |
+| [UCNLPhysics](https://github.com/ucnl/UCNLPhysics) - Multilanguage library for fundamental properties of water (*C#/Rust/C/Matlab/GNU Octave/JavaScript*) |
+| [uMCPIno](https://github.com/AlekUnderwater/uMCPIno) - Simple & lightweight guaranteed delivery protocol (*C#/C/Arduino*) |
+| [UCNLNMEA](https://github.com/ucnl/UCNLNMEA) | Library for parsing & building NMEA0183-sentences |
+
+## Support & Social media
+{% include social-media-links.html %}
