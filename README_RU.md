@@ -8,7 +8,7 @@
 - [Проект №1. Изготовление дискового гидрофона](/projects/disk_hydrophone/README_RU.md)
 - [Проект №2. Изготовление гидрофонного предусилителя](/projects/preamplifier_for_hydrophone/README_RU.md)
   - [Приложение к проекту №2: запись подводных звуков из-подо льда](/projects/recordings_under_ice/README_RU.md)
-- [Проект №3. Изготавливаем подводные корпуса для устройств](/projects/underwater_housings/README_RU.md)
+- [Проект №3. Корпуса для подводных устройств](/projects/underwater_housings/README_RU.md)
 
 
 ## Преобразователи и гидрофоны
