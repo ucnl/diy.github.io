@@ -1,7 +1,7 @@
 | ![logo](https://ucnl.github.io/documentation/sm_logo.png) |
 | :---: |
 | [www.diy.unavlab.com](https://diy.unavlab.com/README_RU.html) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
-| [**EN**](README.md) \| [**RU**](README_RU.md) |
+| [**EN**](project3_1_en.md) \| [**RU**](project3_1_ru.md) |
 
 
 # Project №3: Underwater housings - Battery canister
