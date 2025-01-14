@@ -4,8 +4,8 @@
 | [**EN**](project3_1_en.md) \| [**RU**](project3_1_ru.md) |
 
 
-# Project №3. Part 1: Underwater housings - Battery canister
-
+# Project №3: Underwater housings
+## Part 1: Battery canister
 
 > _"If I had it [life] to do all over again, I'd have been a plumber" (C) Albert Einstein_  
 
