@@ -8,7 +8,7 @@
 - [Project 1. Making a disc hydrophone](/projects/disk_hydrophone/)
 - [Project 2. Making a hydrophone preamplifier](/projects/preamplifier_for_hydrophone/)
   - [Appendix to Project 2: recording of underwater sounds from under the ice](/projects/recordings_under_ice/)
-- [COMING SOON: Project 3. Marking underwater housings for electronics](/projects/underwater_housings/)
+- [Project 3. Part 1: Marking underwater housings for electronics](/projects/underwater_housings/project3_1_en)
 
 
 
