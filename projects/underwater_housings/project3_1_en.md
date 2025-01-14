@@ -48,11 +48,11 @@ And most importantly, it will be **the most simple, cheap and universal solution
 | № | Meterial | Amount | Notes |
 | :--- | :--- | :--- | :--- |
 | 1 | 18650 Lithium-ion battery | 3 pcs | |
-| 2 | BMS for 3S Li-ion | 1 pcs | To be able to fit into a pipe, for example [this one]() |
+| 2 | BMS for 3S Li-ion | 1 pcs | To be able to fit into a pipe, for example [this one](https://sl.aliexpress.ru/p?key=RtKhGLT) |
 | 3 | Mounting wire 0.35 mm<sup>2</sup> | ~1 m | It's better to have different colors |
 | 4 | Polypropilene pipe Ф32 mm | ~1 m | |
 | 5 | Polypropilene stub Ф32 mm | 2 pcs | |
-| 6 | Brass nipple for cable up to 8 mm | 1 pcs | For example [this one]() |
+| 6 | Brass nipple for cable up to 8 mm | 1 pcs | For example [this one](https://sl.aliexpress.ru/p?key=uZKhGtN) |
 | 7 | Cable in rubber insulation 2x1.5 | ~1 ь | It is very important that the cable insulation is rubber or polyurethane, otherwise the cable will harden in the cold |
 | 8 | Heat shrink Ф25 mm | ~1 m | |
 | 9 | Soldering kit - solder and flux | | |
@@ -185,7 +185,7 @@ As you probably guessed, it is not necessary to repeat everything down to the la
 You can assemble a battery with a different number of elements and connect them in a different way, thereby obtaining a different voltage and/or capacity needed for your tasks. You can take a pipe and fittings of a different diameter, elements of a different size and/or based on a different chemistry, for example, lithium titanate or lithium iron phosphate.
 Moreover, in such a case you can assemble not only batteries, but also some electronics.
 
-Of course, in order to use such a battery, a sealed connector must be installed at the end of the cable. For small depths (~10 m), you can use IP68 connectors, for example, [like these]() or [like these]().
+Of course, in order to use such a battery, a sealed connector must be installed at the end of the cable. For small depths (~10 m), you can use IP68 connectors, for example, [like these](https://sl.aliexpress.ru/p?key=uZKhGtN) or [like these](https://sl.aliexpress.ru/p?key=dsKhG4t).
 
 You can, of course, buy one, but if you are attracted to the path of the Jedi, you can make it yourself. We will tell you about this in the next part of this tutorial.
 
