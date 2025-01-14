@@ -11,14 +11,13 @@
 
 ### Contents
 
-- [0. Disclamer](#0-%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80)
-- [1. What will we get as a result?](#1-%D1%87%D1%82%D0%BE-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%81%D1%8F-%D0%B2-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B5)
-- [2. What do we need?](#2-%D1%87%D1%82%D0%BE-%D0%BD%D0%B0%D0%BC-%D0%BF%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%B1%D0%B8%D1%82%D1%81%D1%8F)
-  - [2.1. Materials](#21-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
-  - [2.2. Tools and equipment](#22-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-- [3. Assembly](#3-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0)
-- [4. Conclusion](#4-%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
-
+- [0. Disclamer](#0-disclaimer)
+- [1. What will we get as a result?](#1-what-will-we-get-as-a-result)
+- [2. What do we need?](#2-what-do-we-need)
+  - [2.1. Materials](#21-materials)
+  - [2.2. Tools and equipment](#22-tools-and-equipment)
+- [3. Assembly](#3-assembly)
+- [4. Conclusion](#4-conclusion)
 
 <div style="page-break-after: always;"></div>
 
