@@ -1,7 +1,7 @@
 | ![logo](https://ucnl.github.io/documentation/sm_logo.png) |
 | :---: |
 | [www.diy.unavlab.com](https://diy.unavlab.com/README_RU.html) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
-| [**EN**](project3_1_en.md) \| [**RU**](project3_1_ru.md) |
+| [**EN**](project3_2_en.md) \| [**RU**](project3_2_ru.md) |
 
 
 # Проект №3: Корпуса для подводных устройств
