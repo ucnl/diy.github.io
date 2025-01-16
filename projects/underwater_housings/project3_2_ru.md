@@ -1,3 +1,7 @@
+[Главная](/README_RU) ❯ **Проект №3: Корпуса для подводных устройств - Часть 2: Разъем**
+
+<div style="page-break-after: always;"></div>
+
 | ![logo](https://ucnl.github.io/documentation/sm_logo.png) |
 | :---: |
 | [www.diy.unavlab.com](https://diy.unavlab.com/README_RU.html) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
