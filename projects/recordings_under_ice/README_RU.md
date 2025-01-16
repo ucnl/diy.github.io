@@ -1,3 +1,7 @@
+[Главная](/README_RU) ❯ **Приложение к [проекту №2](/projects/preamplifier_for_hydrophone/README_RU): запись подводных звуков из-подо льда**
+
+<div style="page-break-after: always;"></div>
+
 | ![logo](https://ucnl.github.io/documentation/sm_logo.png) |
 | :---: |
 | [www.diy.unavlab.com](https://diy.unavlab.com/README_RU.html) <br/> [support@unavlab.com](mailto:support@unavlab.com) |
